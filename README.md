@@ -29,4 +29,4 @@ _let's combine **bold** and italics_
 
 ### Image
 
-!['Nazmul Ahasan', 'Nazmul Ahasan']
+!['Nazmul Ahasan', 'Nazmul Ahasan'](/Nazmul.jpeg)
