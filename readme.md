@@ -18,7 +18,11 @@ Among foreign entities, those based in 15 countries identified as top ‘tax hea
 **As expert sources, I incorporated in the story quotes from two individuals: Nicholas Shaxson of the Tax Justice Network, a London-based advocacy group on tax avoidance, and Craig Holman of Public Citizen, a D.C.-based non-profit that promoted government accountability and transparency. The full story has been submitted on bCourse. For future reporting, I intend to contact William H. Minor, a partner at DLA Piper who specializes in lobbying compliance matters (william.minor@dlapiper.com) and Peter Courtney, an intelligence analyst with the FBI who co-authored a research paper in 2020 into the exploitation of LDA by foreign entities: https://www.linkedin.com/in/peter-courtney-62391a15a/)**
 
 
-*Datasets used for the analysis were sourced from the Senate and the House of Representatives. The Senate dataset contained the money spent by lobbyists, while the House dataset contained areas or issues that these lobbyists covered. The Senate dataset was available thanks to [a new project](https://publicaccountability.org/datasets/427/foreign-entities/#) by the Investigative Reporting Workshop at American University, while the latter was derived from [an interactive searchable database](https://disclosurespreview.house.gov/) maintained by the House. The first database was compiled as .csv files [here](https://github.com/the-nazmul/j296/blob/main/lda_client-foreign%20.csv) and the second, [here](https://github.com/the-nazmul/j296/blob/main/Final_assignment_Data_journalism%20-%20General%20Data.csv).*
+*Datasets used for the analysis were sourced from the Senate and the House of Representatives. The Senate dataset contained the money spent by lobbyists, while the House dataset contained areas or issues that these lobbyists covered. The Senate dataset was available thanks to [a new project](https://publicaccountability.org/datasets/427/foreign-entities/#) by the Investigative Reporting Workshop at American University, while the latter was derived from [an interactive searchable database](https://disclosurespreview.house.gov/) maintained by the House. The first database was compiled as .xlsx files [here](https://github.com/the-nazmul/j296/blob/main/
+
+
+
+-foreign.xlsx) and the second, [here](https://github.com/the-nazmul/j296/blob/main/Final_assignment_Data_journalism.xlsx).*
 
 
 
@@ -29,7 +33,7 @@ Among foreign entities, those based in 15 countries identified as top ‘tax hea
 
 ![Top 10 countries where foreign entities are based in](https://github.com/the-nazmul/j296/blob/main/Screen%20Shot%202022-05-04%20at%201.18.51%20AM.png)
 
-##### Sheet Used: *lda_client-foreign* tab of the [*lda_client-foreign*](https://github.com/the-nazmul/j296/blob/main/lda_client-foreign%20.csv) 
+##### Sheet Used: *lda_client-foreign* tab of the [*lda_client-foreign*](https://github.com/the-nazmul/j296/blob/main/lda_client-foreign.xlsx) 
 **Data Analysis Process:**
 - Created a pivot table using *Entity Country* as row and (unique) *client IDs* as values.
 - Copied the resultant table and pasted it in a new tab. Sorted to find the highest value. 
@@ -38,7 +42,7 @@ Among foreign entities, those based in 15 countries identified as top ‘tax hea
 
 ![Top issues that foreign entities lobbied on](https://github.com/the-nazmul/j296/blob/main/Screen%20Shot%202022-05-04%20at%201.29.59%20AM.png)
 
-##### Sheet Used: *Foreign Entities* tab of the [*Final Project_Data Journalism*](https://github.com/the-nazmul/j296/blob/main/Final_assignment_Data_journalism%20-%20General%20Data.csv) 
+##### Sheet Used: *Foreign Entities* tab of the [*Final Project_Data Journalism*](https://github.com/the-nazmul/j296/blob/main/Final_assignment_Data_journalism.xlsx) 
 
 **Data Analysis Process:**
 - I created a table using data derived from the House database. The table contained the list of countries where foreign entities were located and the number of disclosures that those entities submitted over the years. 
@@ -48,7 +52,7 @@ Among foreign entities, those based in 15 countries identified as top ‘tax hea
 
 ![Top issues covered by foreign entities based in tax haven countries](https://github.com/the-nazmul/j296/blob/main/Screen%20Shot%202022-05-04%20at%201.41.57%20AM.png)
 
-##### Sheet Used: *Tax Haven* tab of the [*Final Project_Data Journalism*](https://github.com/the-nazmul/j296/blob/main/Final_assignment_Data_journalism%20-%20General%20Data.csv) 
+##### Sheet Used: *Tax Haven* tab of the [*Final Project_Data Journalism*](https://github.com/the-nazmul/j296/blob/main/Final_assignment_Data_journalism.xlsx) 
 
 
 **Data Analysis Process:**
@@ -59,7 +63,7 @@ Among foreign entities, those based in 15 countries identified as top ‘tax hea
 
 ![Top issues by foreign entities, entities based in tax haven countries, and U.S. domestic entities](https://github.com/the-nazmul/j296/blob/main/Screen%20Shot%202022-05-04%20at%201.54.23%20AM.png)
 
-##### Sheet Used: *Tax Haven* tab of the [*Final Project_Data Journalism*](https://github.com/the-nazmul/j296/blob/main/Final_assignment_Data_journalism%20-%20General%20Data.csv) 
+##### Sheet Used: *Tax Haven* tab of the [*Final Project_Data Journalism*](https://github.com/the-nazmul/j296/blob/main/Final_assignment_Data_journalism.xlsx) 
 
 **Data Analysis Process:**
 - Employing the previous analysis on general data, U.S. domestic entities, and foreign entities excluding tax haven countries, I prepared a comparative table.
@@ -80,7 +84,7 @@ In 2017, after the Muller investigation, the Justice Department vigorously enfor
 
 ![Money spent by foreign entities by countries](https://github.com/the-nazmul/j296/blob/main/Screen%20Shot%202022-05-04%20at%202.09.58%20AM.png)
 
-##### Sheet Used: *Money Spent* tab of the [*lda_client-foreign*](https://github.com/the-nazmul/j296/blob/main/lda_client-foreign%20.csv) 
+##### Sheet Used: *Money Spent* tab of the [*lda_client-foreign*](https://github.com/the-nazmul/j296/blob/main/lda_client-foreign.xlsx) 
 
 **Data Analysis Process:**
 - Created a pivot table using *Entity Country* as row and (unique) *client IDs* and *Sum of Entity Contribution* as values.
