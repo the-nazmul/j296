@@ -57,7 +57,7 @@ Among foreign entities, those based in 15 countries identified as top ‘tax hea
 
 #### 4. Priorities of domestic entities and foreign entities were not the same
 
-[Top issues by foreign entities, entities based in tax haven countries, and U.S. domestic entities](https://github.com/the-nazmul/j296/blob/main/Screen%20Shot%202022-05-04%20at%201.54.23%20AM.png)
+![Top issues by foreign entities, entities based in tax haven countries, and U.S. domestic entities](https://github.com/the-nazmul/j296/blob/main/Screen%20Shot%202022-05-04%20at%201.54.23%20AM.png)
 
 ##### Sheet Used: *Tax Haven* tab of the [*Final Project_Data Journalism*](https://github.com/the-nazmul/j296/blob/main/Final_assignment_Data_journalism%20-%20General%20Data.csv) 
 
