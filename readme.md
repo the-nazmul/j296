@@ -15,7 +15,8 @@ For the U.S.-based entities, for example, health issues and budget-related issue
 
 Among foreign entities, those based in 15 countries identified as top ‘tax heaven’ by the advocacy group Tax Justice Network were mainly interested in taxation in the U.S, the analysis shows. 
 
-**As expert sources, I incorporated in the story quotes from two individuals: Nicholas Shaxson of the Tax Justice Network, a London-based advocacy group on tax avoidance, and Craig Holman of Public Citizen, a D.C.-based non-profit that promoted government accountability and transparency. The full story has been submitted on bCourse.**
+**As expert sources, I incorporated in the story quotes from two individuals: Nicholas Shaxson of the Tax Justice Network, a London-based advocacy group on tax avoidance, and Craig Holman of Public Citizen, a D.C.-based non-profit that promoted government accountability and transparency. The full story has been submitted on bCourse. For future reporting, I intend to contact William H. Minor, a partner at DLA Piper who specializes in lobbying compliance matters (william.minor@dlapiper.com) and Peter Courtney, an intelligence analyst with the FBI who co-authored a research paper in 2020 into the exploitation of LDA by foreign entities: https://www.linkedin.com/in/peter-courtney-62391a15a/)**
+
 
 *Datasets used for the analysis were sourced from the Senate and the House of Representatives. The Senate dataset contained the money spent by lobbyists, while the House dataset contained areas or issues that these lobbyists covered. The Senate dataset was available thanks to [a new project](https://publicaccountability.org/datasets/427/foreign-entities/#) by the Investigative Reporting Workshop at American University, while the latter was derived from [an interactive searchable database](https://disclosurespreview.house.gov/) maintained by the House. The first database was compiled as .csv files [here](https://github.com/the-nazmul/j296/blob/main/lda_client-foreign%20.csv) and the second, [here](https://github.com/the-nazmul/j296/blob/main/Final_assignment_Data_journalism%20-%20General%20Data.csv).*
 
@@ -90,7 +91,7 @@ In 2017, after the Muller investigation, the Justice Department vigorously enfor
 
 *The following is [a line chart](https://datawrapper.dwcdn.net/JynIC/1/) showing the increase in LDA registrations following a reduction in registrations in 2018, following the Justice Department’s crackdown a year earlier.*
 
-![lobbying registration by year](https://github.com/the-nazmul/j296/blob/main/lda-disclosures-by-years.png)
+![lobbying registration by year](https://github.com/the-nazmul/j296/blob/main/JynIC-lda-disclosures-by-years.png)
 
 *The following is [a split bar chart](https://datawrapper.dwcdn.net/1Ossc/1/) depicting the top 25 lobbying issue areas for different types of foreign and domestic entities.*
 
