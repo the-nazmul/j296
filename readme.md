@@ -19,9 +19,9 @@ Among foreign entities, those based in 15 countries identified as top ‘tax hea
 
 #### 1. Which are the top countries where foreign entities are located?
 
+![Top 10 countries where foreign entities are based in](https://github.com/the-nazmul/j296/blob/main/Screen%20Shot%202022-05-04%20at%201.18.51%20AM.png)
 
-
-**Sheet Used: *lda_client-foreign* tab of the *lda_client-foreign*
-**Data Analysis Process:
+##### Sheet Used: *lda_client-foreign* tab of the *lda_client-foreign* 
+**Data Analysis Process:*
 - Created a pivot table using *Entity Country* as row and (unique) *client IDs* as values.
 - Copied the resultant table and pasted it in a new tab. Sorted to find the highest value. 
