@@ -1,4 +1,4 @@
-# How foreign actors evade scrutiny while lobbying U.S. govt
+# How foreign actors avoided disclosures while lobbying U.S. govt
 ## By Nazmul Ahasan
 
 ### Story Summary
@@ -15,7 +15,12 @@ For the U.S.-based entities, the health issues and budget-related issues have be
 
 Among foreign entities, those based in 15 countries identified as top ‘tax heaven’ by the advocacy group Tax Justice Network were mainly interested in taxation in the U.S, the analysis shows. 
 
-*Datasets used for the analysis were sourced from the Senate and the House of Representatives. The Senate dataset contained the money spent by lobbyists, while the House dataset contained areas or issues that these lobbyists covered. The Senate dataset was available thanks to [a new project](https://publicaccountability.org/datasets/427/foreign-entities/#) by the Investigative Reporting Workshop at American University, while the latter was derived from [an interactive searchable database](https://disclosurespreview.house.gov/) maintained by the House.
+**As expert sources, I incorporated in the story quotes from two individuals: Nicholas Shaxson of the Tax Justice Network, a London-based advocacy group on tax avoidance, and Craig Holman of Public Citizen, a D.C.-based non-profit that promoted government accountability and transparency. The full story has been submitted on bCourse.**
+
+*Datasets used for the analysis were sourced from the Senate and the House of Representatives. The Senate dataset contained the money spent by lobbyists, while the House dataset contained areas or issues that these lobbyists covered. The Senate dataset was available thanks to [a new project](https://publicaccountability.org/datasets/427/foreign-entities/#) by the Investigative Reporting Workshop at American University, while the latter was derived from [an interactive searchable database](https://disclosurespreview.house.gov/) maintained by the House. The first database was compiled as .csv files [here](https://github.com/the-nazmul/j296/blob/main/lda_client-foreign%20.csv) and the second, [here](https://github.com/the-nazmul/j296/blob/main/Final_assignment_Data_journalism%20-%20General%20Data.csv).*
+
+
+
 
 ### Data Analysis
 
@@ -68,7 +73,7 @@ In 2017, after the Muller investigation, the Justice Department vigorously enfor
 
 **Data Analysis Process:**
 - On the House database, I simply narrowed down the yearly number of disclosures by Registration (and Registration Amended) disclosures to find out yearly new registrations.
-- I then created a chart to show the differences. The data viz is included in the following section.
+- I then created a line chart to show the differences. The data viz is included in the following section.
 
 #### 6. Money spent by foreign entities on lobbying (by countries)
 
@@ -83,10 +88,10 @@ In 2017, after the Muller investigation, the Justice Department vigorously enfor
 
 ## Data Vizualization
 
-*The following is a line chart showing the increase in LDA registrations following a reduction in registrations in 2018, following the Justice Department’s crackdown a year earlier.
+*The following is a line chart showing the increase in LDA registrations following a reduction in registrations in 2018, following the Justice Department’s crackdown a year earlier.*
 
 ![lobbying registration by year](https://github.com/the-nazmul/j296/blob/main/lda-disclosures-by-years.png)
 
-*The following is a split bar chart depicting the top 25 lobbying issue areas for different types of foreign and domestic entities.
+*The following is a split bar chart depicting the top 25 lobbying issue areas for different types of foreign and domestic entities.*
 
 ![top 25 lobbying areas](https://github.com/the-nazmul/j296/blob/main/top-areas-lobbying.png)
