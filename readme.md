@@ -9,9 +9,9 @@ These lobbying maneuvers were regulated under the Lobbying Disclosure Act (LDA),
 
 Under current legal requirements, a lobbyist — even if working for a foreign client — can avoid a higher level of scrutiny and disclosure requirements under FARA if they disclose limited information under LDA, as long as their client was not any foreign government or political party.
 
-The analysis of data gleaned from lobbying databases maintained by the Senate and the House of Representatives suggests that foreign entities and domestic entities are not interested in the same type of issues.
+However, an analysis of data gleaned from lobbying databases maintained by the Senate and the House of Representatives portrays a stark difference in the issue areas for foreign entities and domestic entities. Foreign entities are pursuing issues in D.C. that may be more consistent with the governmental agenda of their respective countries.
 
-For the U.S.-based entities, the health issues and budget-related issues have been the top two priorities. In contrast, foreign entities lobbied to influence taxation and trade-related issues in the U.S. the most.
+For the U.S.-based entities, for example, health issues and budget-related issues have been the top two priorities. In contrast, foreign entities lobbied to influence taxation and trade-related issues in the U.S. the most.
 
 Among foreign entities, those based in 15 countries identified as top ‘tax heaven’ by the advocacy group Tax Justice Network were mainly interested in taxation in the U.S, the analysis shows. 
 
@@ -24,7 +24,7 @@ Among foreign entities, those based in 15 countries identified as top ‘tax hea
 
 ### Data Analysis
 
-#### 1. Which are the top countries where foreign entities are located?
+#### 1. Top countries where foreign entities are located
 
 ![Top 10 countries where foreign entities are based in](https://github.com/the-nazmul/j296/blob/main/Screen%20Shot%202022-05-04%20at%201.18.51%20AM.png)
 
@@ -43,7 +43,7 @@ Among foreign entities, those based in 15 countries identified as top ‘tax hea
 - I created a table using data derived from the House database. The table contained the list of countries where foreign entities were located and the number of disclosures that those entities submitted over the years. 
 - I then sorted the column containing the number of disclosures by Z to A to find the highest values.
 
-#### 3. Issues that entities based in ‘tax haven’ countries covered
+#### 3. Top issues that lobbyists for entities based in ‘tax haven’ countries covered
 
 ![Top issues covered by foreign entities based in tax haven countries](https://github.com/the-nazmul/j296/blob/main/Screen%20Shot%202022-05-04%20at%201.41.57%20AM.png)
 
@@ -56,18 +56,18 @@ Among foreign entities, those based in 15 countries identified as top ‘tax hea
 
 #### 4. Priorities of domestic entities and foreign entities were not the same
 
-[Top issues by foreign entities, entities based in tax haven, and U.S. domestic entities](https://github.com/the-nazmul/j296/blob/main/Screen%20Shot%202022-05-04%20at%201.54.23%20AM.png)
+[Top issues by foreign entities, entities based in tax haven countries, and U.S. domestic entities](https://github.com/the-nazmul/j296/blob/main/Screen%20Shot%202022-05-04%20at%201.54.23%20AM.png)
 
 ##### Sheet Used: *Tax Haven* tab of the [*Final Project_Data Journalism*](https://github.com/the-nazmul/j296/blob/main/Final_assignment_Data_journalism%20-%20General%20Data.csv) 
 
 **Data Analysis Process:**
 - Employing the previous analysis on general data, U.S. domestic entities, and foreign entities excluding tax haven countries, I prepared a comparative table.
 - I calculated the share of lobbying areas for each of the five categories.
-- Marked first three categories for each entity type with Red, Yellow, and Green, respectively.
+- Marked the first three categories for each entity type with Red, Yellow, and Green, respectively.
 
 #### 5. LDA registration pattern after Justice Dept crackdown in 2017
 
-In 2017, after the Muller investigation, the Justice Department vigorously enforced FARA, which led to a 30% increase of FARA registrations. However, my analysis would show that LDA registrations also increased, after initial shock in the 2017-18 period.
+In 2017, after the Muller investigation, the Justice Department vigorously enforced FARA, which led to a 30% increase in FARA registrations. However, my analysis would show that LDA registrations also increased, after the initial shock in the 2017-18 period.
 
 ![LDA registration numbers by years](https://github.com/the-nazmul/j296/blob/main/Screen%20Shot%202022-05-04%20at%201.58.59%20AM.png)
 
@@ -88,10 +88,10 @@ In 2017, after the Muller investigation, the Justice Department vigorously enfor
 
 ## Data Vizualization
 
-*The following is a line chart showing the increase in LDA registrations following a reduction in registrations in 2018, following the Justice Department’s crackdown a year earlier.*
+*The following is [a line chart](https://datawrapper.dwcdn.net/JynIC/1/) showing the increase in LDA registrations following a reduction in registrations in 2018, following the Justice Department’s crackdown a year earlier.*
 
 ![lobbying registration by year](https://github.com/the-nazmul/j296/blob/main/lda-disclosures-by-years.png)
 
-*The following is a split bar chart depicting the top 25 lobbying issue areas for different types of foreign and domestic entities.*
+*The following is [a split bar chart](https://datawrapper.dwcdn.net/1Ossc/1/) depicting the top 25 lobbying issue areas for different types of foreign and domestic entities.*
 
 ![top 25 lobbying areas](https://github.com/the-nazmul/j296/blob/main/top-areas-lobbying.png)
