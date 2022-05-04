@@ -64,7 +64,7 @@ Among foreign entities, those based in 15 countries identified as top ‘tax hea
 
 In 2017, after the Muller investigation, the Justice Department vigorously enforced FARA, which led to a 30% increase of FARA registrations. However, my analysis would show that LDA registrations also increased, after initial shock in the 2017-18 period.
 
-[LDA registration numbers by years](https://github.com/the-nazmul/j296/blob/main/Screen%20Shot%202022-05-04%20at%201.58.59%20AM.png)
+![LDA registration numbers by years](https://github.com/the-nazmul/j296/blob/main/Screen%20Shot%202022-05-04%20at%201.58.59%20AM.png)
 
 **Data Analysis Process:**
 - On the House database, I simply narrowed down the yearly number of disclosures by Registration (and Registration Amended) disclosures to find out yearly new registrations.
@@ -72,5 +72,21 @@ In 2017, after the Muller investigation, the Justice Department vigorously enfor
 
 #### 6. Money spent by foreign entities on lobbying (by countries)
 
-[Money spent by foreign entities by countries](https://github.com/the-nazmul/j296/blob/main/Screen%20Shot%202022-05-04%20at%202.09.58%20AM.png)
+![Money spent by foreign entities by countries](https://github.com/the-nazmul/j296/blob/main/Screen%20Shot%202022-05-04%20at%202.09.58%20AM.png)
 
+##### Sheet Used: *Money Spent* tab of the [*lda_client-foreign*](https://github.com/the-nazmul/j296/blob/main/lda_client-foreign%20.csv) 
+
+**Data Analysis Process:**
+- Created a pivot table using *Entity Country* as row and (unique) *client IDs* and *Sum of Entity Contribution* as values.
+- Copied the resultant table and pasted it in a new tab. Sorted to find the highest values. 
+
+
+## Data Vizualization
+
+*The following is a line chart showing the increase in LDA registrations following a reduction in registrations in 2018, following the Justice Department’s crackdown a year earlier.
+
+![lobbying registration by year](https://github.com/the-nazmul/j296/blob/main/lda-disclosures-by-years.png)
+
+*The following is a split bar chart depicting the top 25 lobbying issue areas for different types of foreign and domestic entities.
+
+![top 25 lobbying areas](https://github.com/the-nazmul/j296/blob/main/top-areas-lobbying.png)
