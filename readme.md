@@ -18,11 +18,7 @@ Among foreign entities, those based in 15 countries identified as top ‘tax hea
 **As expert sources, I incorporated in the story quotes from two individuals: Nicholas Shaxson of the Tax Justice Network, a London-based advocacy group on tax avoidance, and Craig Holman of Public Citizen, a D.C.-based non-profit that promoted government accountability and transparency. The full story has been submitted on bCourse. For future reporting, I intend to contact William H. Minor, a partner at DLA Piper who specializes in lobbying compliance matters (william.minor@dlapiper.com) and Peter Courtney, an intelligence analyst with the FBI who co-authored a research paper in 2020 into the exploitation of LDA by foreign entities: https://www.linkedin.com/in/peter-courtney-62391a15a/)**
 
 
-*Datasets used for the analysis were sourced from the Senate and the House of Representatives. The Senate dataset contained the money spent by lobbyists, while the House dataset contained areas or issues that these lobbyists covered. The Senate dataset was available thanks to [a new project](https://publicaccountability.org/datasets/427/foreign-entities/#) by the Investigative Reporting Workshop at American University, while the latter was derived from [an interactive searchable database](https://disclosurespreview.house.gov/) maintained by the House. The first database was compiled as .xlsx files [here](https://github.com/the-nazmul/j296/blob/main/
-
-
-
--foreign.xlsx) and the second, [here](https://github.com/the-nazmul/j296/blob/main/Final_assignment_Data_journalism.xlsx).*
+*Datasets used for the analysis were sourced from the Senate and the House of Representatives. The Senate dataset contained the money spent by lobbyists, while the House dataset contained areas or issues that these lobbyists covered. The Senate dataset was available thanks to [a new project](https://publicaccountability.org/datasets/427/foreign-entities/#) by the Investigative Reporting Workshop at American University, while the latter was derived from [an interactive searchable database](https://disclosurespreview.house.gov/) maintained by the House. The first database was compiled as .xlsx files [here](https://github.com/the-nazmul/j296/blob/main/lda_client-foreign.xlsx) and the second, [here](https://github.com/the-nazmul/j296/blob/main/Final_assignment_Data_journalism.xlsx).*
 
 
 
